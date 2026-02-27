@@ -15,7 +15,7 @@ body {
   margin: 0 auto;
 }
 
-/* ================= NAVBAR ================= */
+
 
 .navbar {
   position: absolute;
@@ -65,7 +65,7 @@ body {
   font-size: 14px;
 }
 
-/* ================= HERO ================= */
+
 
 .hero {
   position: relative;
@@ -74,7 +74,7 @@ body {
   text-align: center;
 }
 
-/* FIXED OVERLAY (Not too dark) */
+
 .overlay {
   position: absolute;
   inset: 0;
@@ -111,7 +111,6 @@ body {
   line-height: 1.6;
 }
 
-/* ================= EMAIL PILL ================= */
 
 .email-box {
   display: flex;
@@ -139,11 +138,12 @@ body {
   font-size: 14px;
 }
 
-/* ================= DASHBOARD IMAGE ================= */
+
 
 .dashboard img {
   width: 950px;
   border-radius: 20px;
   display: block;
   margin: 0 auto;
+
 }
